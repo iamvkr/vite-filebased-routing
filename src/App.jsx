@@ -5,7 +5,6 @@ import Navbar from './components/Navbar'
 import { routes, preserved } from './Routes'
 
 function App() {
-  const NF = ()=> (<>NOT FOUNR</>);
   const AppLayout = preserved?.['._app'] || Fragment;
   const NotFound = preserved?.['.404'] || NF;
   

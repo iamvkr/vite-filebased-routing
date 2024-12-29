@@ -25,3 +25,6 @@ create a folder and clone this repo
 ```bash
 git clone https://github.com/iamvkr/vite-filebased-routing.git
 ```
+
+### Homepage
+![thumbnail](./thumbnail.png)
